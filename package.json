@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringlen.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmambo/jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmambo/jest-practice/issues"
+  },
+  "homepage": "https://github.com/Dmambo/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
